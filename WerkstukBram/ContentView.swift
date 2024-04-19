@@ -20,7 +20,7 @@ struct CameraView: View{
         ZStack{
             Color.black
                 .ignoresSafeArea(.all, edges: .all)
-            
+            //test
             VStack {
                 
                 if camera.isTaken{
